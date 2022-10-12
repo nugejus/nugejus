@@ -1,3 +1,4 @@
+```python
 class About_Me:
   def __init__(self):
     self.Name = "Seungju Lee"
@@ -18,8 +19,9 @@ class About_Me:
     self.I_can_speak = set("Russain" , "Korean" , "English")
     self.Hobby = set('Powerlifting' , 'Photographing' , 'Poem writing')
     
-    #self.GirlFriend = False
+    self.GirlFriend = False
 
   def Contact(self):
     print(" email : nugejus@naver.com ")
     print(" instagram : www.instagram.com/lift.yourlife ")
+```
